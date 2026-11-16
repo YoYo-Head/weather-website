@@ -4,8 +4,8 @@
  
 ## Tech Stack  
 
-**Client:** HTML, CSS  
-**Server:** JavaScripts
+**Client:** HTML, CSS, Javascript
+**Server:** None! Almost fully works on the client, with API requests to fetch weather info
 
 ## License  
 [MIT](https://choosealicense.com/licenses/mit/) 
@@ -26,6 +26,8 @@ https://aptarvirus.github.io/weather/
 
 ### Ai
 I ued AI to understand the concept all the codes are written by me. I uesd Copilot during setting up the Time zone.
+
+
 
  
 

@@ -1,0 +1,30 @@
+.title {
+    text-align: center;
+    height: 70px;
+    
+    padding-top: 20px;
+
+    background-color: antiquewhite;
+
+    border: 3px;
+
+}
+
+.main_container {
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+
+}
+
+.middle_container {
+    margin: auto;
+
+
+}
+
+.middle_container h2 {
+    margin-top: 50px;
+
+    text-align: center;
+}
