@@ -10,6 +10,30 @@
 
 }
 
+:root {
+    background-image: url(images/weatherImage.jpg);
+}
+
+.body {
+    margin-right: 0 auto;
+    margin-left: 0 auto;
+
+    width: 50%;
+
+    
+
+}
+
+#vertical_line {
+    height: 5px;
+    width: 100%;
+
+    margin-bottom: 30px;
+    margin-top: 10px;
+
+    background-color: gray;
+}
+
 .main_container {
     margin-right: auto;
     margin-left: auto;
@@ -18,7 +42,14 @@
 }
 
 .middle_container {
+    
+
     margin: auto;
+
+    background-color: palegoldenrod;
+
+    padding-bottom: 400px;
+
 
 
 }
@@ -26,5 +57,38 @@
 .middle_container h2 {
     margin-top: 50px;
 
+    padding-top: 20px;
+
     text-align: center;
+}
+
+
+
+.submit_button {
+    display: block;
+
+    border-radius: 40px;
+
+    margin-right: auto;
+    margin-left: auto;
+
+    width: 710px;
+
+    height: 40px;
+}
+
+.city_text {
+    display: block;
+
+    margin-bottom: 10px;
+
+    text-align: center;
+
+
+    margin-right: auto;
+    margin-left: auto;
+
+    width: 700px;
+
+    height: 40px;
 }
